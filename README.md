@@ -6,8 +6,7 @@ It is an cross platform app developed in React Native that keeps track the Expen
 </h4>
   
 <h4>
-The core funionality of the app that it sends the automatic pretyped user message reply on the missed call between two time slites.
-And between time slots, it also reminds the remninder and enable the Do Not Disturb mode if it is allowed.
+User can also CRUD the catageories details and can also download the slip of a particular catageory that will be automatcally taken view shot and store in gallary.
 </h4>
 
 
