@@ -12,3 +12,7 @@ User can also CRUD the catageories details and can also download the slip of a p
 
 
 
+
+
+https://user-images.githubusercontent.com/68283718/208290072-6a99da74-245f-455f-8000-32d455822f33.mp4
+
